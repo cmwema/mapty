@@ -6,14 +6,28 @@ This is a one page web App that highlights the use of opensctreet maps via the l
 
 Here a user is able to add makers on the map on the areas on the map where the user has done workouts, either cyling or runing. This helps the user keep track of their workouts. By default the map shows the current user location.
 
+![image](https://user-images.githubusercontent.com/81985376/184620308-77d27e29-909f-4691-b0fe-bcdd63fd6dc0.png)
+
+
 
 ## Features
 - Map - where the user clicks to add new workouts.
-- Geolocation to display map at userd curretn location.
+    ![image](https://user-images.githubusercontent.com/81985376/184620512-ec156209-1be8-4d1e-a9c5-9da696f141cb.png)
+
+- Geolocation to display map at userd current location.
 - Form for user to input distance, time, pace, steps/minutes, speed, elevation, elevation date and choose the type of workout, that is, either running or cycling.
+    ![image](https://user-images.githubusercontent.com/81985376/184620445-0ebce2db-27cf-41dc-8a57-a1f8841a9289.png)
+
 - Display of all workouts in a list.
+    ![image](https://user-images.githubusercontent.com/81985376/184620666-1e5bd2b1-2967-4535-8082-b09de27bf7a8.png)
+
 - Display of all workouts on the map.
+    ![image](https://user-images.githubusercontent.com/81985376/184620761-8f589062-2003-442c-ba36-eb927e99428e.png)
+
 - Store the work out dates.
+    - using localstorage
+      ![image](https://user-images.githubusercontent.com/81985376/184620905-d0ad15fb-d40b-448b-aae2-1f415e085cd9.png)
+
 
 ## Architecture used: 
 [Mapty-architecture-final](https://user-images.githubusercontent.com/81985376/184603393-ef17f588-e31e-4709-8449-ade7a0b3941b.png)
