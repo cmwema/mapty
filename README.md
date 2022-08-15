@@ -71,7 +71,7 @@ Here a user is able to add makers on the map on the areas on the map where the u
       sytax :
           map.on('click', callBackFunction)
           
-          - map.om is a leaflet method( an invent listener on the map.
+          - map.on is a leaflet method( an invent listener on the map.
           - 'click' is the event created by leaftlet
           - callBackFunction - e.g. (mapEvent) => {console.log(mapEvent)}
          
