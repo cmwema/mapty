@@ -46,12 +46,14 @@ Here a user is able to add makers on the map on the areas on the map where the u
   syntax : navigator.geolocation.getCurrentPosition(args)
   
   this takes 3 arguments:
-      - *mandatory* success call back.
-      executes if the location retrieval is successful.
-      - *optional* error call back. 
-      executes if the location retrival is successful.
-      - *optional* object
-      This provides options for retrieval of position data.
+     ###### - mandatory success call back.
+     executes if the location retrieval is successful.
+         
+     ###### - optional error call back.
+     executes if the location retrival is successful.
+      
+     ###### - optional object
+     This provides options for retrieval of position data.
       
 - To check whether geolocation exists
    syntax: 
