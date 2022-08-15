@@ -77,5 +77,5 @@ Here a user is able to add makers on the map on the areas on the map where the u
   
   
   
-  ### Access the App ![here](https://mapty-caleb.netlify.app/)
+  ### Access the App [here](https://mapty-caleb.netlify.app/)
   
