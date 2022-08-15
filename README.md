@@ -1,13 +1,14 @@
 # mapty
 
+![image](https://user-images.githubusercontent.com/81985376/184621205-dc91e61c-5f90-492c-a362-cf5fc3c07c3f.png)
+
 ## Introduction
 
 This is a one page web App that highlights the use of opensctreet maps via the leaflet library and also use of localstorage to save the app state data.
 
 Here a user is able to add makers on the map on the areas on the map where the user has done workouts, either cyling or runing. This helps the user keep track of their workouts. By default the map shows the current user location.
 
-![image](https://user-images.githubusercontent.com/81985376/184620308-77d27e29-909f-4691-b0fe-bcdd63fd6dc0.png)
-
+![image](https://user-images.githubusercontent.com/81985376/184621344-70c08044-7da8-4958-b67c-645e81165ff5.png)
 
 
 ## Features
@@ -66,4 +67,8 @@ Here a user is able to add makers on the map on the areas on the map where the u
           - callBackFunction - e.g. (mapEvent) => {console.log(mapEvent)}
          
   ##### This is just a highlight, the rest of the documentation can be found at [leaflet's official documentation](https://leafletjs.com/reference.html)
+  
+  
+  
+  ### Access the App ![here](https://mapty-caleb.netlify.app/)
   
