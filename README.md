@@ -16,8 +16,8 @@ Here a user is able to add makers on the map on the areas on the map where the u
 - Store the work out dates.
 
 ## Architecture used: 
-(![Mapty-architecture-final](https://user-images.githubusercontent.com/81985376/184603393-ef17f588-e31e-4709-8449-ade7a0b3941b.png)
-)
+[Mapty-architecture-final](https://user-images.githubusercontent.com/81985376/184603393-ef17f588-e31e-4709-8449-ade7a0b3941b.png)
+
 
 ## using the geolocation API
 - To get the current location 
@@ -35,7 +35,7 @@ Here a user is able to add makers on the map on the areas on the map where the u
    syntax: 
       if (navigator.geolocation)
       
- ##### Rest of the documentation can be found at [MDN docs](!https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+ ##### Rest of the documentation can be found at [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
  
  ## using the LEAFLET library
  Leaflet is an open source Javascript library for mobile friendly interractive maps. Its the interface between openstreet maps and javascript.
@@ -51,5 +51,5 @@ Here a user is able to add makers on the map on the areas on the map where the u
           - 'click' is the event created by leaftlet
           - callBackFunction - e.g. (mapEvent) => {console.log(mapEvent)}
          
-  ##### This is just a highlight, the rest of the documentation can be found at [leaflet's official documentation](!https://leafletjs.com/reference.html)
+  ##### This is just a highlight, the rest of the documentation can be found at [leaflet's official documentation](https://leafletjs.com/reference.html)
   
