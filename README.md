@@ -1,7 +1,5 @@
 # mapty
 
-![image](https://user-images.githubusercontent.com/81985376/184621205-dc91e61c-5f90-492c-a362-cf5fc3c07c3f.png)
-
 ## Introduction
 
 This is a one page web App that highlights the use of opensctreet maps via the leaflet library and also use of localstorage to save the app state data.
